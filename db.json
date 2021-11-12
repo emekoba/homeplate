@@ -18,19 +18,19 @@
 			"id": "1",
 			"name": "Themes of success",
 			"pdf": "",
-			"image": "Resources/image1.jpg"
+			"image": "resources/image1.jpg"
 		},
 		{
 			"id": "2",
 			"name": "A brief history of the universe",
 			"pdf": "",
-			"image": "Resources/image2.jpg"
+			"image": "resources/image2.jpg"
 		},
 		{
 			"id": "3",
 			"name": "informercial awards",
 			"pdf": "",
-			"image": "Resources/image3.jpg"
+			"image": "resources/image3.jpg"
 		}
 	]
 }

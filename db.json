@@ -1,3 +1,36 @@
 {
-    "worklist": []
+	"businesses": [
+		{
+			"id": "1",
+			"name": "russell softworks",
+			"user": "russell j emekoba"
+		}
+	],
+	"users": [
+		{
+			"id": "1",
+			"name": "russell softworks",
+			"email": "rjemekoba@gmail.com"
+		}
+	],
+	"books": [
+		{
+			"id": "1",
+			"name": "Themes of success",
+			"pdf": "",
+			"image": "Resources/image1.jpg"
+		},
+		{
+			"id": "2",
+			"name": "A brief history of the universe",
+			"pdf": "",
+			"image": "Resources/image2.jpg"
+		},
+		{
+			"id": "3",
+			"name": "informercial awards",
+			"pdf": "",
+			"image": "Resources/image3.jpg"
+		}
+	]
 }
